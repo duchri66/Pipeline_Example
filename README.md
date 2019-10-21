@@ -1,2 +1,2 @@
-# Pipeline_Example
-Example d'un Pipeline avec Jenkins et GitHub
+# Pipeline-exzmple
+Example of pipeline with jenkins
